@@ -28,6 +28,9 @@ Se abrira en [http://localhost:3000](http://localhost:3000)
 * React
 * Javascript
 
+## Versión con cdn
+[https://github.com/naxo25/React-Hooks-conCdn](https://github.com/naxo25/React-Hooks-conCdn)
+
 ## Versionado 📌
 
 Uso [GIT](https://git-scm.com/) para el versionado.
